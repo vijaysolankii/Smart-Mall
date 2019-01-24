@@ -426,7 +426,7 @@ $(document).ready(function(){
     );
 });
 </script>
-<!-- here stars scrolling icon -->
+<!-- here star scrolling icon -->
 	<script type="text/javascript">
 		$(document).ready(function() {
 			/*
