@@ -528,7 +528,7 @@ $(document).ready(function(){
 				};
 			*/
 								
-			$().UItoTop({ easingType: 'easeOutQuart' });
+			$().UItoTop({ easingType: 'ease/OutQuart' });
 								
 			});
 	</script>
