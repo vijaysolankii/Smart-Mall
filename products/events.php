@@ -5,6 +5,7 @@
 <title> Online Shopping Mall | Events</title>
 <link rel="shortcut icon" href="../images/shopping2.png"  /> 
 <!-- for-mobile-apps -->
+	<!-- mobile view start-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
