@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Smart Bazaar | Contact Us</title>
+<title> Smart Bazaar || Contact Us</title>
 <link rel="shortcut icon" href="../images/shopping2.png"  /> 
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
